@@ -5,7 +5,7 @@
 
 - Estoy en busca de un puesto como **Desarrollador Web Full Stack**
 
-- 👨‍💻 Todos mis proyectos disponibles en [https://agustin-palavecino-portfolio.netlify.app/](https://agustin-palavecino-portfolio.netlify.app/)
+- 👨‍💻 Todos mis proyectos y experiencia disponible en [https://agustin-palavecino-portfolio.netlify.app/](https://agustin-palavecino-portfolio.netlify.app/)
 
 
 - 📫 Contacto **agupalavecino97@gmail.com**
